@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nike SB Photoscan
+* source:	https://sketchfab.com/3d-models/nike-sb-photoscan-2ce1c205c1f94c7db2d1af072e8b75b4
+* author:	3djon (https://sketchfab.com/3djon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nike SB Photoscan" (https://sketchfab.com/3d-models/nike-sb-photoscan-2ce1c205c1f94c7db2d1af072e8b75b4) by 3djon (https://sketchfab.com/3djon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

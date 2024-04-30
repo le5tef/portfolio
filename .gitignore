@@ -1,0 +1,13 @@
+.idea/
+/vendor/
+bitrix
+upload
+.htaccess
+*.log
+node_modules
+/local/archive.tar
+/local/archive.tar.gz
+/hydra/json/
+json
+dist
+*.blend

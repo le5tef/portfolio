@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chair
+* source:	https://sketchfab.com/3d-models/chair-4a0ff810c45f43fcb92dd15e26d5ae94
+* author:	igor-tkachenko (https://sketchfab.com/igor-tkachenko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chair" (https://sketchfab.com/3d-models/chair-4a0ff810c45f43fcb92dd15e26d5ae94) by igor-tkachenko (https://sketchfab.com/igor-tkachenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,471 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v3.3.32",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        4,
+        9
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "prop_nike_a_01__0.001",
+      "rotation": [
+        -0.72487139701843262,
+        -0.033209342509508133,
+        -0.040053240954875946,
+        0.68691658973693848
+      ],
+      "scale": [
+        1.0354040861129761,
+        1.0354042053222656,
+        1.0354042053222656
+      ],
+      "translation": [
+        -73.599250793457031,
+        256.9259033203125,
+        85.260993957519531
+      ]
+    },
+    {
+      "children": [
+        0
+      ],
+      "name": "prop_nike_a_01.001",
+      "rotation": [
+        -0.7071068286895752,
+        0,
+        0,
+        0.70710670948028564
+      ],
+      "scale": [
+        0.025486251339316368,
+        0.025486251339316368,
+        0.025486251339316368
+      ]
+    },
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode.002"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "prop_nike_a_01.FBX.001",
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.70710670948028564
+      ]
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Sketchfab_model.002",
+      "rotation": [
+        0,
+        -0.7071068286895752,
+        -0.70710670948028564,
+        1.4037719854979108E-23
+      ],
+      "scale": [
+        -0.10877885669469833,
+        -0.10877887159585953,
+        -0.10877887159585953
+      ],
+      "translation": [
+        0,
+        0.50521457195281982,
+        1.1354136466979981
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "prop_nike_a_01__0",
+      "rotation": [
+        -0.0034641951788216829,
+        0.66121870279312134,
+        -0.75017076730728149,
+        0.0046670208685100079
+      ],
+      "scale": [
+        1.0354042053222656,
+        1.0354040861129761,
+        1.0354040861129761
+      ],
+      "translation": [
+        117.66770172119141,
+        555.289794921875,
+        122.40043640136719
+      ]
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "prop_nike_a_01",
+      "rotation": [
+        -0.7071068286895752,
+        0,
+        0,
+        0.70710670948028564
+      ],
+      "scale": [
+        0.025486251339316368,
+        0.025486251339316368,
+        0.025486251339316368
+      ]
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "prop_nike_a_01.FBX",
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.70710670948028564
+      ]
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "Sketchfab_model.001",
+      "rotation": [
+        -0.7071068286895752,
+        0,
+        0,
+        0.70710670948028564
+      ],
+      "scale": [
+        0.10877885669469833,
+        0.10877887159585953,
+        0.10877887159585953
+      ],
+      "translation": [
+        0,
+        0,
+        1.1354136466979981
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "prop_nike_a_01__0.001Action",
+      "samplers": [
+        {
+          "input": 7,
+          "interpolation": "LINEAR",
+          "output": 8
+        },
+        {
+          "input": 7,
+          "interpolation": "LINEAR",
+          "output": 9
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Scene_-_Root.001",
+      "normalTexture": {
+        "index": 0,
+        "scale": 0.62366616725921631
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.48342224955558777,
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      }
+    },
+    {
+      "name": "Scene_-_Root",
+      "normalTexture": {
+        "index": 3,
+        "scale": 0.62366616725921631
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        },
+        "metallicFactor": 0.48342224955558777,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "prop_nike_a_01__0.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "prop_nike_a_01__0",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 3,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ],
+  "images": [
+    {
+      "name": "Scene_-_Root_normal",
+      "uri": "nike_sb_image0.png"
+    },
+    {
+      "name": "Scene_-_Root_baseColor",
+      "uri": "nike_sb_image1.jpg"
+    },
+    {
+      "name": "Scene_-_Root_metallicRoughness",
+      "uri": "nike_sb_image2.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 6897,
+      "max": [
+        213.76861572265625,
+        95.0217056274414,
+        173.47016906738281
+      ],
+      "min": [
+        -171.21662902832031,
+        -62.130741119384766,
+        1.8858531713485718
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 6897,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 6897,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 35922,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 6897,
+      "max": [
+        213.76861572265625,
+        95.0217056274414,
+        173.47016906738281
+      ],
+      "min": [
+        -171.21662902832031,
+        -62.130741119384766,
+        1.8858531713485718
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 6897,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 6897,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 35,
+      "max": [
+        1.4166666666666667
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 35,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 35,
+      "type": "VEC4"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 82764,
+      "byteOffset": 0,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 82764,
+      "byteOffset": 82764,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55176,
+      "byteOffset": 165528,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 71844,
+      "byteOffset": 220704,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 82764,
+      "byteOffset": 292548,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 82764,
+      "byteOffset": 375312,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55176,
+      "byteOffset": 458076,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 140,
+      "byteOffset": 513252
+    },
+    {
+      "buffer": 0,
+      "byteLength": 420,
+      "byteOffset": 513392
+    },
+    {
+      "buffer": 0,
+      "byteLength": 560,
+      "byteOffset": 513812
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 514372,
+      "uri": "nike_sb.bin"
+    }
+  ]
+}
